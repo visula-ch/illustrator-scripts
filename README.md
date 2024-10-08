@@ -74,16 +74,6 @@ Many scripts are free to download thanks to user support. Help me to develop new
   <img width="111" height="40" src="https://i.ibb.co/0KJ94ND/donatepay-badge.png">
 </a>
 
-## Paid scripts
-* [ExportSequence](https://www.buymeacoffee.com/aiscripts/e/230926) — script for toggle visibility of numbered objects in selected groups and exports document as sequence to PNGs or JPGs.
-* [ColorToner](https://www.buymeacoffee.com/aiscripts/e/231463) — script for generating tints, shades, and tones from base colors.
-* [GradientBlender](https://www.buymeacoffee.com/aiscripts/e/231606) — script to make gradients more accurate, smooth.
-* [Ai2Ae](https://www.buymeacoffee.com/aiscripts/e/231609) — script for prepare Adobe Illustrator Layers for import into Adobe After Effects.
-* [ArtboardsFromCSV](https://www.buymeacoffee.com/aiscripts/e/231618) — script for batch creation of artboards with names and dimensions defined in a CSV table.
-* [Duplicate Artboards Pro](https://www.buymeacoffee.com/aiscripts/e/231621) — script for copying the selected Artboard with or without his Artwork.
-* [HighlightText](https://www.buymeacoffee.com/aiscripts/e/231626) — script for adding highlighting strokes based on text lines.
-* [ImportImagesByName](https://www.buymeacoffee.com/aiscripts/e/231629) — script for imports images from the specified folder by names from the contents of the selected text objects.
-
 ## Categories
 Click the category name to learn more about the scripts in the selected category.   
 
@@ -212,31 +202,6 @@ Click the category name to learn more about the scripts in the selected category
 
 * [Zoom And Center](https://github.com/creold/illustrator-scripts/blob/master/md/View.md#zoom-and-center) `upd, 28.08.2024`
 
-## Testimonials
-* *I am very thankful for such a nice and useful scripts.
-It makes my life easy and more productive* - Rizwan Abuzar
-* *You are a hero. Thank you for all your hard work improving illustrator so it saves countless hours for people worldwide via your scripts* - Nitcho
-* *Sergey, these scripts of yours are great* — Terry Foxx   
-* *Wow. I just installed and successfully tested. Outstanding work!!!* — Zak Lay
-* *Tried your script to export selected objects to separate Ai, works smartly* — Dmitry
-* *I looked at your post. Useful scripts!* — Askhat Gilyakhov
-* *Thank you for such wonderful scripts* — Oleg Zybailov
-* *Very powerful and user-friendly, cover a lot of gaps* — Egor Chistyakov
-* *I'm a big fan of your scripts. Absolutely amazing work* — David Nightingale
-* *You are the best ever script editor. All scripts are amazing and useful for designers and time saver. Thank you for your supporting* — Tuan Hijas Musaffer
-
-Don't forget sharing link with a friend 🙂 
-
-## Contribute
-
-Found a bug? Please [submit a new issues](https://github.com/creold/illustrator-scripts/issues) on GitHub.
-
-## Blog
-Tips, tricks and scripts bugs for Adobe Illustrator: [English](https://aiscripts.medium.com), [Русский](https://ais.sergosokin.ru/blog/).
-
-## Contact
-Email <hi@sergosokin.ru>  
-Telegram [@sergosokin](https://t.me/sergosokin)
 
 ### License
 
