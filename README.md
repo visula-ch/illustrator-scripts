@@ -2,15 +2,6 @@
 
 # Adobe Illustrator Scripts
 
-![Downloads](https://img.shields.io/badge/Downloads-43k-27CF7D.svg) [![Telegram](https://img.shields.io/badge/Telegram%20Channel-%40aiscripts-0088CC.svg)](https://t.me/aiscripts) [![Yotube](https://img.shields.io/badge/Youtube-%40SergOsokinArt-FF0000.svg)](https://www.youtube.com/c/SergOsokinArt/videos)
-
-*Instructions in other languages: [English](README.md), [Русский](README.ru.md)*
-
-## Hi
-This is a collection of JS scripts for Adobe Illustrator. All scripts created by me, sometimes using parts of other authors’ code. The [Github Gist](https://gist.github.com/creold) contains the small scripts that are not included in the main collection.
-
-The descriptions for each file can be found in the file’s header text. Test environment: Illustrator CS6, CC 2019-2024 (Windows), CC 2019-2024 (Mac OS).   
-
 ## How to download one script 
 1. In the script description, click ![Direct](https://img.shields.io/badge/Direct%20Link-000000.svg) button.
 2. The tab will open the script code.
